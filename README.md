@@ -31,7 +31,7 @@ I am interested in learning DS,AI and would 💖 to grow my knowledge in these T
 - 🔭 I’m currently working on Frontend Web Development .
 - 🌱 I’m currently learning Backend Development.
 - 👯 I’m looking to collaborate with Fullstack Web Community esp, Python-Django.
-- 🤔 Open source Contribution in the making.
+- 😎 Open source Contribution in the making.
 - 💬 Ask me about Frontend and Backend Development.
 - 😄 I like writing :snake: Python language it's an awesome language.
 - ⚡ Fun fact: I 💖 to code 24x7. New hobby.
