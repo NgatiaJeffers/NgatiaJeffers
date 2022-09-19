@@ -4,7 +4,7 @@ experiences. ​💻​👨‍💻​⌨️️​ A developer who writes clean e
 I'm also an open source contributer, more of triage issues, and bugs,
 cool stuff if you ask me.<br/>
 ​👨‍💻​💬​👩‍💻​
-I am interested in learning more on backend development, AI and would 💖 to grow my knowledge in these Technologies/Areas.
+I am interested in learning more on backend development, would 💖 to grow my knowledge in these Technologies/Areas.
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
