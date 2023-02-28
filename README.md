@@ -1,6 +1,6 @@
 ### About me🧑:
 I am Jefferson ​🏄🏻​💻​ passionate about building exceptional digital
-experiences. ​💻​👨‍💻​⌨️️​ A developer who writes clean elegant and efficient codes.<br/>
+experiences. ​💻​👨‍💻​⌨️️​ <br/> A developer who writes clean elegant and efficient codes.<br/>
 I'm also an open source contributer, more of triage issues, and bugs,
 cool stuff if you ask me.<br/>
 ​👨‍💻​💬​👩‍💻​
