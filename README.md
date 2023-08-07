@@ -1,5 +1,5 @@
 ### About me🧑:
-I am Jefferson👨‍💻, a frontend developer with expertise in React.js, Next.js, and Tailwind CSS👩‍💻.<br/>
+I am Jefferson👨‍💻, a frontend developer with expertise in React.js, Next.js, Framer Motion, and Tailwind CSS👩‍💻.<br/>
 I have extensive experience in building🏄🏻 interactive web applications using Javascript-based frontend <br/> 
 frameworks. As an active open-source contributor👨‍💻, I help maintain projects and triage issues⌨️. <br/>
 Additionally, I am part of a weekly technical writing💬 community.
