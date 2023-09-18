@@ -1,16 +1,23 @@
 ### About me🧑:
-I am Jefferson👨‍💻, a frontend developer with expertise in React.js, Next.js, Framer Motion, and Tailwind CSS👩‍💻.<br/>
-I have extensive experience in building🏄🏻 interactive web applications using Javascript-based frontend <br/> 
-frameworks. As an active open-source contributor👨‍💻, I help maintain projects and triage issues⌨️. <br/>
-Additionally, I am part of a weekly technical writing💬 community.
+Hello, I'm Jeff👨‍💻, I build front-end interactive web apps. An Open-source Contributor 👨‍💻.<br/>
+My focus is React (Next.js),🏄🏻Framer Motion, and Tailwind CSS. I help maintain projects and triage issues⌨️. <br/>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
-- 🔭 I’m currently working on Frontend Web Development.
-- 🌱 Always learning to better my skills though.
-- 👯 I’m looking to collaborate with Fullstack Web Community, Reactjs, Nextjs, Nodejs, and Python-Django.
-- 😎 Open source Contribution in the making.
-- 💬 Ask me about Frontend and Backend Development.
-- 😄 I like writing :snake: Python language it's an awesome language * Javascript. Learning how to include a semicolon. 
-- ⚡ Fun fact: I 💖 googling stuff.
-- ​🌳​🍃​💻​👩‍💻​
+What I'm up to:
+
+- 🔭 I'm currently working on backend development.
+- 🌱 I'm always learning to better my skills.
+- 👯 I'm looking to collaborate with the full-stack web community, JavaScript, TypeScript, React.js(Next.js), and Node.js
+- 😎 I'm currently working on open-source contributions.
+- 💬 Ask me about frontend and backend development.
+
+Fun facts:
+
+- 😄 I like writing JavaScript, and I'm learning how to include semicolons too.
+- ⚡ I love googling stuff.
+🌳🍃💻👩‍💻
+
+Contact me:
+
+[📧 jeffersongakuya@gmail.com]
