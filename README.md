@@ -1,20 +1,16 @@
 ### About me🧑:
-Hello, I'm Jeff👨‍💻, I build front-end interactive web apps. An Open-source Contributor 👨‍💻.<br/>
-My focus is React (Next.js),🏄🏻Framer Motion, and Tailwind CSS. I help maintain projects and triage issues⌨️. <br/>
+Hello, I'm Jeff👨‍💻, I love TypeScript, and I see myself becoming a Type Guard. An Open-source Contributor 👨‍💻.<br/>
+My focus is React (Next.js),🏄🏻Framer Motion, and Tailwind CSS ⌨️. <br/>
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 
 What I'm up to:
-
-- 🔭 I'm currently working on backend development.
-- 🌱 I'm always learning to better my skills.
+- 🌱 What's a TypeScript developer's favorite type of music? Type and bass!
 - 👯 I'm looking to collaborate with the full-stack web community, JavaScript, TypeScript, React.js(Next.js), and Node.js
-- 😎 I'm currently working on open-source contributions.
+- 😎 Openly contributing.
 - 💬 Ask me about frontend and backend development.
 
 Fun facts:
-
-- 😄 I like writing JavaScript, and I'm learning how to include semicolons too.
 - ⚡ I love googling stuff.
 🌳🍃💻👩‍💻
 
