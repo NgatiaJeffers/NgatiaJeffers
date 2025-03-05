@@ -1,4 +1,4 @@
-# Jeff Gakuya 🧑‍💻
+# Jefferson Gakuya 🧑‍💻
 
 ## 👨‍💻 About Me
 
